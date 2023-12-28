@@ -87,7 +87,3 @@ canteen/
 ## Additional scope
 - **Allergen Information:** Include detailed information about allergens present in food items for students with allergies.
 - **Integration with Social Media:** Allow users to share their orders or experiences on social media platforms.
-# Smart-Canteen
-# Smart-Canteen
-# Smart-Canteen
-# Smart-Canteen
